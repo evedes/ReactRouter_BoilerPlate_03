@@ -1,10 +1,10 @@
-Hitchhiker's Guide to React Router v4.0
+### React Router v4 - part 3/4
 
-React Boilerplate 03: Part III of the Guide
+Read the article
 
-1.  Create React App
-2.  React Router v4.0
-3.  Folder Structure aligned for Views + Components
-4.  Recursive paths
+[The Hitchhiker’s Guide to React Router v4: recursive paths, to infinity and beyond!
+](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-21c99a878bf8)
 
---evedes, Sep 2018
+![Alt text](/img/preview.png?raw=true "Optional Title")
+
+
